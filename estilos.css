@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: rgb(107, 9, 9);
+}
+body{
+    width:60%;
+    height: 200px;
+    background: rgb(70, 17, 216);
+    box-shadow: rgba(5, 61, 3, 0.5);
+}

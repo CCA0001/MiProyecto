@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head><title>l..l</title></head>
+<link href="estilos.css" rel="style sheet">
+</head>
+<body> //los head van a tener los mismos estilos.//
+    <header> encabezado </header>
+    <section>//al header le agregamos un id para que no tenga los mismos estilos//
+        <header id="encabezado"> encabezado sectio2</header>
+    </section>
+</body>
